@@ -1,16 +1,5 @@
 <!-- Dark mode background wrapper -->
 <div style="background-color: #0d1117; color: #c9d1d9;">
-<style>
-/* Force dark mode for code blocks */
-pre {
-    background-color: #161b22 !important;
-    color: #e6edf3 !important;
-}
-code {
-    background-color: #161b22 !important;
-    color: #e6edf3 !important;
-}
-</style>
 
 <div align="center">
   

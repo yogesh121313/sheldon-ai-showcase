@@ -1,10 +1,24 @@
+<!-- Dark mode background wrapper -->
+<div style="background-color: #0d1117; color: #c9d1d9;">
+<style>
+/* Force dark mode for code blocks */
+pre {
+    background-color: #161b22 !important;
+    color: #e6edf3 !important;
+}
+code {
+    background-color: #161b22 !important;
+    color: #e6edf3 !important;
+}
+</style>
+
 <div align="center">
   
   <!-- Animated Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16,17,18,19,20,21,22,23&height=120&section=header&fontSize=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28,29&height=120&section=header&fontSize=0" width="100%" />
   
-  <!-- Sheldon Logo Placeholder -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=600&lines=🤖+Sheldon+AI" alt="Sheldon AI" />
+  <!-- Sheldon Logo -->
+  <img src="images/sheldon-ai-assistant-logo-banner.png" alt="Sheldon AI Banner" />
   
   <!-- Animated Typing Header -->
   <br><br>
@@ -12,18 +26,18 @@
   
   <!-- Version and Status Badges -->
   <br>
-  <img src="https://img.shields.io/badge/Version-4.3.12-3B82F6?style=for-the-badge&logo=semantic-release&logoColor=white" alt="Version"/>
-  <img src="https://img.shields.io/badge/Models-12+_Supported-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="Models"/>
-  <img src="https://img.shields.io/badge/Platform-Web_+_Discord-1E40AF?style=for-the-badge&logo=discord&logoColor=white" alt="Platform"/>
-  <img src="https://img.shields.io/badge/License-MIT-1E3A8A?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="License"/>
+  <img src="https://img.shields.io/badge/Version-4.3.12-3B82F6?style=flat-square&logo=semantic-release&logoColor=white" alt="Version"/>
+  <img src="https://img.shields.io/badge/Models-12+_Supported-2563EB?style=flat-square&logo=openai&logoColor=white" alt="Models"/>
+  <img src="https://img.shields.io/badge/Platform-Web_+_Discord-1E40AF?style=flat-square&logo=discord&logoColor=white" alt="Platform"/>
+  <img src="https://img.shields.io/badge/License-MIT-1E3A8A?style=flat-square&logo=open-source-initiative&logoColor=white" alt="License"/>
   
   <br><br>
   
   <!-- Feature Highlights -->
-  [![Discord](https://img.shields.io/badge/Discord-Bot_Ready-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org)
-  [![Web](https://img.shields.io/badge/Web-Canvas_Interface-38BDF8?style=for-the-badge&logo=react&logoColor=white)](https://sheldon.ai)
-  [![Node.js](https://img.shields.io/badge/Runtime-Node.js_20+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-  [![AI](https://img.shields.io/badge/AI-Multi_Model-EC4899?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
+  [![Discord](https://img.shields.io/badge/Discord-Bot_Ready-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.js.org)
+  [![Web](https://img.shields.io/badge/Web-Canvas_Interface-38BDF8?style=flat-square&logo=react&logoColor=white)](https://sheldon.ai)
+  [![Node.js](https://img.shields.io/badge/Runtime-Node.js_20+-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+  [![AI](https://img.shields.io/badge/AI-Multi_Model-EC4899?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com)
 </div>
 
 <!-- Inspirational Quote -->
@@ -33,103 +47,69 @@
   <br>
 </div>
 
-## 🚀 The Future of AI Interaction Has Arrived
+## 💫 **Beyond Chat. Beyond Limits. Pure Spatial Intelligence.**
 
 ```javascript
-class SheldonAI {
-    constructor() {
-        this.interface = "Spatial Canvas";
-        this.models = ["GPT-4", "Claude-3", "Gemini", "Llama", "Groq", "..."];
-        this.platforms = ["Web", "Discord"];
-        this.vision = "Revolutionary";
-    }
-    
-    async interact(thought) {
-        // Click anywhere on the infinite canvas
-        const position = await this.spatialInterface.capture(thought);
-        
-        // Watch particles transform into AI responses
-        return this.particlePhysics.animate(position, thought);
-    }
-    
-    transcend() {
-        // Breaking the boundaries of traditional chat interfaces
-        return "The most organic AI conversation experience ever created";
-    }
-}
+const sheldon = {
+  // 🧠 Multi-Model Intelligence
+  models: ['gpt-4-turbo', 'claude-3-opus', 'gemini-pro', 'llama-3', '...'],
+  
+  // 🎨 Revolutionary Interfaces
+  canvas: 'infinite-spatial-web',
+  discord: 'advanced-bot-integration',
+  
+  // ⚡ Real Magic
+  click: (anywhere) => particles.transform(thought => intelligence),
+  speak: (voice) => transcribe.realtime(audio => response),
+  imagine: (prompt) => generate.art(idea => visual)
+};
 ```
 
-**Sheldon AI** represents a paradigm shift in human-AI interaction. While others offer chat windows, we offer an **infinite spatial canvas** where thoughts flow naturally. Click anywhere, type anything, and watch as particle physics transforms your words into intelligent responses that float and evolve in space.
+> **"Not just another AI chat. This is consciousness meets canvas."**
+
+Imagine clicking anywhere on an infinite digital space. Your thoughts materialize as particles, dancing through WebGL shaders, transforming into intelligent responses that float in 3D space. No chat bubbles. No message threads. Just pure, spatial conversation.
 
 <div align="center">
 
 ### 🌐 **Experience Sheldon AI**
 
-[![Try Web Interface](https://img.shields.io/badge/Try_Now-Web_Canvas-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sheldon.ai)
-[![Add to Discord](https://img.shields.io/badge/Add_Bot-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize)
+[![Try Web Interface](https://img.shields.io/badge/Try_Now-Web_Canvas-3B82F6?style=flat-square&logo=google-chrome&logoColor=white)](https://sheldonai.xyz)
+[![Join Discord](https://img.shields.io/badge/Join_Server-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/polymath)
 
 **Two revolutionary experiences, one powerful AI**
 
 </div>
 
-## ✨ Revolutionary Features
+## ✨ **Features That Redefine AI Interaction**
 
 <div align="center">
 
-### 🎨 **Spatial Canvas Interface** (Web)
-<table>
-<tr>
-<td width="50%">
+### 🎨 **The Spatial Canvas** — *Where Thoughts Become Landscapes*
 
-#### Infinite Canvas
-- 🖱️ **Click Anywhere** - Start conversations at any point in space
-- 🌌 **Infinite Scroll** - No boundaries, no limits
-- 🗺️ **Mindmap Navigation** - Zoom and pan through conversation history
-- 💫 **Particle Physics** - Watch words transform with visual effects
+| **✨ Infinite Space** | **🌊 Particle Physics** | **🧠 Spatial Memory** |
+|:---:|:---:|:---:|
+| Click anywhere.<br>Type anything.<br>No boundaries. | WebGL shaders.<br>Real-time animations.<br>Thought visualization. | Conversations persist.<br>Branch infinitely.<br>Navigate freely. |
 
-</td>
-<td width="50%">
+### 🎮 **Discord Integration** — *12+ Models, One Command*
 
-#### Organic Interaction
-- 🎯 **Spatial Memory** - Conversations maintain their position
-- 🔄 **Thread Branching** - Fork discussions in any direction
-- 📊 **Visual Transcripts** - Export conversation maps
-- ⚡ **Zero UI** - Nothing between you and the AI
-
-</td>
-</tr>
-</table>
+| **🤖 Multi-Model** | **🎙️ Voice Channels** | **🔌 Service Mesh** |
+|:---:|:---:|:---:|
+| `/gpt4` `/claude3` `/gemini`<br>Switch models mid-conversation | Join. Transcribe. Respond.<br>Real-time voice AI | Google Workspace<br>Notion API<br>Email automation |
 
 ### 🤖 **Multi-Model Intelligence**
+
 <table>
 <tr>
-<td width="33%">
-
-#### OpenAI Suite
-- GPT-4 Turbo
-- GPT-3.5 Turbo
-- DALL-E 3
-- Whisper
-
-</td>
-<td width="33%">
-
-#### Anthropic & Google
-- Claude 3 Opus/Sonnet
-- Gemini Pro
-- Gemini Vision
-- PaLM 2
-
-</td>
-<td width="33%">
-
-#### Open Source
-- Llama 3
-- Mixtral
-- Groq
-- Custom models
-
-</td>
+<td align="center"><img src="images/llm-logos/open-ai.png" width="60" height="60" /><br><b>OpenAI</b><br>GPT-4, DALL-E 3</td>
+<td align="center"><img src="images/llm-logos/anthropic.png" width="60" height="60" /><br><b>Anthropic</b><br>Claude 3 Opus</td>
+<td align="center"><img src="images/llm-logos/google.png" width="60" height="60" /><br><b>Google</b><br>Gemini Pro</td>
+<td align="center"><img src="images/llm-logos/meta.png" width="60" height="60" /><br><b>Meta</b><br>Llama 3</td>
+</tr>
+<tr>
+<td align="center"><img src="images/llm-logos/mistral-ai.png" width="60" height="60" /><br><b>Mistral</b><br>Mixtral</td>
+<td align="center"><img src="images/llm-logos/grog.png" width="60" height="60" /><br><b>Groq</b><br>LPU Inference</td>
+<td align="center"><img src="images/llm-logos/cohere.png" width="60" height="60" /><br><b>Cohere</b><br>Command</td>
+<td align="center"><img src="images/llm-logos/deepseek.png" width="60" height="60" /><br><b>DeepSeek</b><br>Coder</td>
 </tr>
 </table>
 
@@ -149,55 +129,101 @@ class SheldonAI {
 
 </div>
 
+## 🛠️ Built With
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+
+</div>
+
 ## 📊 Architecture & Innovation
 
 <div align="center">
 
 ```mermaid
-graph TB
-    A[Sheldon Core] --> B[Web Canvas]
-    A --> C[Discord Bot]
-    A --> D[AI Models]
+flowchart TB
+    subgraph Core["🧠 Sheldon AI Core"]
+        direction TB
+        AI[AI Orchestrator]
+        Memory[(Context Memory)]
+        Router[Request Router]
+    end
     
-    B --> B1[Spatial Interface]
-    B --> B2[Particle Physics]
-    B --> B3[Mindmap Engine]
+    subgraph Canvas["🎨 Spatial Canvas"]
+        direction LR
+        Physics[Particle Physics Engine]
+        Render[WebGL Renderer]
+        Spatial[Spatial Navigation]
+        Physics --> Render
+        Render --> Spatial
+    end
     
-    C --> C1[Slash Commands]
-    C --> C2[Voice Integration]
-    C --> C3[Service Plugins]
+    subgraph Discord["💬 Discord Platform"]
+        direction LR
+        Commands[Slash Commands]
+        Voice[Voice Channels]
+        Threads[Thread Management]
+    end
     
-    D --> D1[OpenAI]
-    D --> D2[Anthropic]
-    D --> D3[Google]
-    D --> D4[Open Source]
+    subgraph Models["🤖 AI Models"]
+        direction TB
+        GPT[GPT-4 Turbo]
+        Claude[Claude-3 Opus]
+        Gemini[Gemini Pro]
+        Llama[Llama 3]
+    end
     
-    style A fill:#3B82F6
-    style B fill:#10B981
-    style C fill:#8B5CF6
-    style D fill:#F59E0B
+    subgraph Services["🔌 Integrations"]
+        direction LR
+        Google[Google Workspace]
+        Notion[Notion API]
+        Email[Email Service]
+    end
+    
+    Core --> Canvas
+    Core --> Discord
+    Core --> Models
+    Discord --> Services
+    
+    style Core fill:#1e40af,stroke:#3b82f6,color:#fff
+    style Canvas fill:#059669,stroke:#10b981,color:#fff
+    style Discord fill:#6d28d9,stroke:#8b5cf6,color:#fff
+    style Models fill:#d97706,stroke:#f59e0b,color:#fff
+    style Services fill:#dc2626,stroke:#ef4444,color:#fff
 ```
 
 </div>
 
-### ⚡ Performance & Scale
+### ⚡ **Performance That Speaks for Itself**
 
 <div align="center">
 
-| **Metric** | **Value** | **Industry Standard** |
-|:---|:---:|:---:|
-| Response Time | **< 100ms** | 500ms |
-| Canvas FPS | **60fps** | 30fps |
-| Model Switching | **Instant** | Requires restart |
-| Context Window | **128K tokens** | 8K tokens |
-| Concurrent Users | **Unlimited** | Limited |
-| Data Privacy | **100%** | Varies |
+```yaml
+Response Time:    < 100ms     # 5x faster than industry standard
+Canvas FPS:       60fps       # Buttery smooth interactions
+Model Switching:  Instant     # No restart required
+Context Window:   128K tokens # 16x larger than standard
+Concurrent Users: Unlimited   # Scale without limits
+Data Privacy:     100%        # Your data, your control
+```
 
 </div>
 
-## 🌟 The Dual Experience
+## 🌟 **Two Interfaces. Infinite Possibilities.**
 
-### 🎨 Web Canvas - The Future is Spatial
+### 🎨 **Web Canvas** — *The Future is Spatial*
 
 Revolutionary spatial interface that transforms how we interact with AI:
 
@@ -207,7 +233,7 @@ Revolutionary spatial interface that transforms how we interact with AI:
 - **Mindmap View** - Navigate through conversation history organically
 - **Zero UI Philosophy** - Nothing between you and the AI
 
-### 🤖 Discord Bot - Power User's Dream
+### 🤖 **Discord Bot** — *Power User's Dream*
 
 Full-featured Discord bot with everything power users need:
 
@@ -217,10 +243,11 @@ Full-featured Discord bot with everything power users need:
 - **Thread Management** - Complex discussions with context preservation
 - **Slash Commands** - Intuitive `/ask`, `/image`, `/code` and more
 
-## 🎯 What Sets Sheldon Apart
+## 🎯 **The Sheldon Difference**
 
 ### From Traditional Chat...
-```
+
+```text
 ┌─────────────────────┐
 │ User: Hello         │
 │ AI: Hi there!       │
@@ -230,7 +257,8 @@ Full-featured Discord bot with everything power users need:
 ```
 
 ### ...To Spatial Conversations
-```
+
+```text
         Hello ✨
           ↙️
     Hi there! 💫
@@ -246,14 +274,16 @@ Full-featured Discord bot with everything power users need:
 ## 🚀 Quick Start
 
 ### Web Canvas
+
 ```bash
-# Visit https://sheldon.ai
+# Visit https://sheldonai.xyz
 # Click anywhere on the canvas
 # Start typing
 # Watch the magic happen
 ```
 
 ### Discord Bot
+
 ```bash
 # Add bot to your server
 /ask What can you do?
@@ -262,70 +292,41 @@ Full-featured Discord bot with everything power users need:
 /voice join
 ```
 
-## 🛠️ Self-Hosting
-
-### Prerequisites
-- Node.js 20+
-- SQLite
-- Discord Bot Token (for Discord features)
-- AI API Keys (OpenAI, Anthropic, etc.)
-
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/sheldon.git
-cd sheldon
-
-# Install dependencies
-npm install
-
-# Configure environment
-cp .env.example .env
-# Edit .env with your API keys
-
-# Run migrations
-npm run migrate
-
-# Start Sheldon
-npm start
-```
-
 ## 🤝 Community & Support
 
 ### Get Involved
+
 - **⭐ Star this repo** - Show your support
 - **🐛 Report Issues** - Help us improve
 - **💡 Request Features** - Shape the future
 - **🤝 Contribute** - PRs welcome!
 
 ### Connect
-- **Discord** - [Join our server](https://discord.gg/sheldon)
-- **Twitter** - [@SheldonAI](https://twitter.com/sheldonai)
-- **Website** - [sheldon.ai](https://sheldon.ai)
 
-## 📈 Roadmap
+- **Discord** - [Join our server](https://discord.gg/polymath)
+- **X** - [@developtheweb](https://x.com/developtheweb)
+- **Website** - [sheldonai.xyz](https://sheldonai.xyz)
+
+## 🚀 **What's Next**
 
 <div align="center">
 
-| **Q1 2025** | **Q2 2025** | **Q3 2025** |
-|:---|:---|:---|
-| ✅ Spatial Canvas v1 | 🔄 3D Canvas Mode | 📱 Mobile Canvas |
-| ✅ Multi-Model Support | 🔄 Custom Model Training | 🌐 Decentralized AI |
-| ✅ Voice Integration | 🔄 Real-time Collaboration | 🎮 VR/AR Support |
+### **2025 Roadmap**
+
+**Q1** `✅ Spatial Canvas` `✅ Multi-Model` `✅ Voice`  
+**Q2** `⚡ 3D Canvas` `⚡ Custom Models` `⚡ Collaboration`  
+**Q3** `🔮 Mobile App` `🔮 Decentralized` `🔮 VR/AR`
 
 </div>
 
-## 🙏 Acknowledgments
+## 💖 **Built with Love By**
 
 <div align="center">
 
-Built with passion by developers who believe AI interaction should be spatial, not sequential.
+**Developers who believe AI should be spatial, not sequential.**
 
-Special thanks to:
-- Discord.js community
-- Three.js for particle physics
-- All AI model providers
-- Our amazing community
+Powered by `Discord.js` • `Three.js` • `WebGL` • `Node.js`  
+Supported by the best AI providers on Earth
 
 ---
 
@@ -333,19 +334,28 @@ Special thanks to:
 
 If Sheldon enhances your AI experience, consider supporting:
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/yourusername)
-[![Star](https://img.shields.io/badge/Star-⭐-F6E05E?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yourusername/sheldon-ai-showcase)
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/yourusername)
+[![Star](https://img.shields.io/badge/Star-⭐-F6E05E?style=flat-square&logo=github&logoColor=black)](https://github.com/yourusername/sheldon-ai-showcase)
 
 </div>
 
 ---
 
 <div align="center">
+  
+  ### ⚡ **The Revolution Has Begun**
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Click+anywhere.+Type+anything.;No+boundaries.+No+limits.;This+is+Sheldon+AI." alt="Typing SVG" />
+  
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Click+Anywhere+to+Start;The+Future+of+AI+is+Spatial;One+Canvas,+Infinite+Possibilities" alt="Typing SVG" />
-  <br>
-  <sub>🚀 <strong>Sheldon AI</strong> – Where conversations transcend the chatbox</sub>
+  
+  **🚀 Sheldon AI** | *Spatial Intelligence Platform*  
+  **📍 Live Now** | [sheldonai.xyz](https://sheldonai.xyz) | [Discord](https://discord.gg/polymath)  
+  **💫 Version 4.3.12** | MIT License
+  
 </div>
 
 <!-- Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16,17,18,19,20,21,22,23&height=100&section=footer&fontSize=0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28,29&height=100&section=footer&fontSize=0" width="100%" />
+
+</div> <!-- End dark mode wrapper -->

